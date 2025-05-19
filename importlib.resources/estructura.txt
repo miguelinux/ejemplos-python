@@ -1,0 +1,5 @@
+mi_proyecto/
+├── mi_paquete/
+│   └── __init__.py  # Archivo necesario para que Python reconozca el directorio como paquete
+│   └── datos.txt
+└── mi_script.py     # Donde guardarías el código Python de arriba
